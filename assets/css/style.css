@@ -739,6 +739,11 @@ p {
   .header-image img {
     position: relative;
     z-index: 5; }
+    
+.header-image-noborder {
+  max-width: 430px;
+  margin: 0 auto;
+  position: relative; }
 
 .header-social {
   position: absolute;
